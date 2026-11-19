@@ -1,0 +1,6 @@
+{
+  "name": "Block Crush",
+  "description": "A tactile 8x8 block puzzle game where players drag and place polyominoes to clear rows and columns, chain combos, and chase high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
